@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Visitor Counter",
+  "description": "A real-time visitor counter using Node.js, Express, and Socket.IO to track online users per page.",
+  "requestFramePermissions": []
+}
